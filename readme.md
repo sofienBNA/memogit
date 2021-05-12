@@ -26,8 +26,11 @@ $ cd nomdudossier
 Lister les éléments dans un dossier
 $ ls
 
+ouvrir virtual studio code 
+$ code
+
 Vérifiez l'état des modifications dans un dépôt
- $ git status
+$ git status
 
 Afficher les modifications apportés aux fichiers
 $ git diff
