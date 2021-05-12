@@ -23,6 +23,9 @@ $ mkdir nomdudossier
 Naviguer dans un dossier
 $ cd nomdudossier
 
+permet de voir les commit en local
+$git log 
+
 Lister les éléments dans un dossier
 $ ls
 
